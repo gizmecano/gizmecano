@@ -8,5 +8,5 @@ From time to time, I share [various technical news](https://twitter.com/gizmecan
 
 My current side projects include:
 
-- [opencart-3-fr](https://github.com/gizmecano/opencart-3-fr): a French language pack for the [OpenCart](http://www.opencart.com/) ecommerce platform
-- [Hereditor Theme](https://github.com/gizmecano/grav-theme-hereditor): a theme for [Grav CMS](https://getgrav.org/) (currently in progress)
+- [opencart-3-fr](https://github.com/gizmecano/opencart-3-fr), a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/)
+- [grav-theme-hereditor](https://github.com/gizmecano/grav-theme-hereditor), a theme for the open source flat-file CMS [Grav](https://getgrav.org/)

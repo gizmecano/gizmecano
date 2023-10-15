@@ -10,3 +10,4 @@ My current side projects include:
 
 - [opencart-3-fr](https://github.com/gizmecano/opencart-3-fr), a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/)
 - [grav-theme-hereditor](https://github.com/gizmecano/grav-theme-hereditor), a theme for the open source flat-file CMS [Grav](https://getgrav.org/)
+- [cadratin](https://github.com/gizmecano/cadratin), a layouting template based on em multiples for the free office suite [LibreOffice](https://www.libreoffice.org/)

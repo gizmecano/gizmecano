@@ -1,7 +1,5 @@
 # Hello
 
-![Mona](https://github.githubassets.com/images/mona-whisper.gif)
-
 I make [miscellaneous things](http://mergey.ch/) using a keyboard and a mouse, mainly in the fields of web design, digital publishing and visual branding.
 
 From time to time, I share [various technical news](https://twitter.com/gizmecano), push [a couple of bytes](https://github.com/gizmecano) or upload [variegated pixels](https://dribbble.com/gizmecano).

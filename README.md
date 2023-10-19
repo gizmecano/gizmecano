@@ -14,3 +14,4 @@ From time to time, I share [various technical news](https://twitter.com/gizmecan
 - [GizMecano Laboratory](http://gizmecano.net/), a showcase built to present a choice of projects and experiments in the web design field
 - [Hereditor](https://htg.gizmecano.net/), a website which aims to enable a previewing of the eponymous theme in action
 - [OCF (OpenCart.fr)](http://ocf.gizmecano.net/), a dummy store whose purpose is to present and set in motion a language pack
+- [Miscellanées numériques d’un ours](http://mno.gizmecano.net/), a blog dedicated to various problems involved by ubiquitous uses of computer tools

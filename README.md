@@ -4,7 +4,7 @@ I make [miscellaneous things](http://mergey.ch/) using a keyboard and a mouse, m
 
 From time to time, I share [various technical news](https://twitter.com/gizmecano), push [a couple of bytes](https://github.com/gizmecano) or upload [variegated pixels](https://dribbble.com/gizmecano).
 
-My current side projects include:
+## Open source projects
 
 - [cadratin](https://github.com/gizmecano/cadratin), a layouting template based on em multiples for the free office suite [LibreOffice](https://www.libreoffice.org/) (LGPL-3.0 license)
 - [grav-theme-hereditor](https://github.com/gizmecano/grav-theme-hereditor), a theme for the open source flat-file CMS [Grav](https://getgrav.org/) (MIT license)

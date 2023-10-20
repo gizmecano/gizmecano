@@ -23,3 +23,6 @@
 - [GitHub](https://github.com/gizmecano)
 - [Twitter](https://twitter.com/gizmecano)
 - [Unsplash](https://unsplash.com/@gizmecano)
+- [Stack Overflow](https://stackoverflow.com/users/4094098)
+- [Stack Exchange Open Source](https://opensource.stackexchange.com/users/5047)
+- [Stack Exchange Ebooks](https://ebooks.stackexchange.com/users/6569)

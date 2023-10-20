@@ -1,7 +1,5 @@
 # Hello
 
-From time to time, I share [various technical news](https://twitter.com/gizmecano), push [a couple of bytes](https://github.com/gizmecano) or upload [variegated pixels](https://dribbble.com/gizmecano).
-
 ## Open source projects
 
 - [cadratin](https://github.com/gizmecano/cadratin), a layouting template based on em multiples for the free office suite [LibreOffice](https://www.libreoffice.org/) (LGPL-3.0 license)
@@ -15,3 +13,9 @@ From time to time, I share [various technical news](https://twitter.com/gizmecan
 - [Mergey.ch](https://mergey.ch/), a portfolio about miscellaneous things, mainly in the fields of web design, digital publishing and visual branding
 - [Miscellanées numériques d’un ours](http://mno.gizmecano.net/), a blog dedicated to various problems involved by ubiquitous uses of computer tools
 - [OCF (OpenCart.fr)](http://ocf.gizmecano.net/), a dummy store whose purpose is to present and set in motion a language pack
+
+## Network profiles
+
+- [Twitter](https://twitter.com/gizmecano)
+- [GitHub](https://github.com/gizmecano)
+- [Dribbble](https://dribbble.com/gizmecano)

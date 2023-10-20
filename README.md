@@ -19,3 +19,7 @@
 - [Twitter](https://twitter.com/gizmecano)
 - [GitHub](https://github.com/gizmecano)
 - [Dribbble](https://dribbble.com/gizmecano)
+- [CodePen](https://codepen.io/gizmecano)
+- [DEV](https://dev.to/gizmecano)
+- [DeviantArt](https://www.deviantart.com/gizmecano)
+- [Unsplash](https://unsplash.com/@gizmecano)

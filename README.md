@@ -14,15 +14,12 @@
 - [Miscellanées numériques d’un ours](http://mno.gizmecano.net/), a blog dedicated to various problems involved by ubiquitous uses of computer tools
 - [OCF (OpenCart.fr)](http://ocf.gizmecano.net/), a dummy store whose purpose is to present and set in motion a language pack
 
-## Network profiles
+## Social networks profiles
 
 - [CodePen](https://codepen.io/gizmecano)
 - [DEV](https://dev.to/gizmecano)
 - [DeviantArt](https://www.deviantart.com/gizmecano)
 - [Dribbble](https://dribbble.com/gizmecano)
 - [GitHub](https://github.com/gizmecano)
-- [Stack Exchange Ebooks](https://ebooks.stackexchange.com/users/6569)
-- [Stack Exchange Open Source](https://opensource.stackexchange.com/users/5047)
-- [Stack Overflow](https://stackoverflow.com/users/4094098)
 - [Twitter](https://twitter.com/gizmecano)
 - [Unsplash](https://unsplash.com/@gizmecano)

@@ -23,3 +23,7 @@
 - [GitHub](https://github.com/gizmecano)
 - [Twitter](https://twitter.com/gizmecano)
 - [Unsplash](https://unsplash.com/@gizmecano)
+
+## Other miscellaneous activities
+
+- [Stack Exchange](https://stackexchange.com/users/5106056/?tab=accounts)

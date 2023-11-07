@@ -28,4 +28,5 @@
 
 - [Atlassian Community](https://community.atlassian.com/t5/user/viewprofilepage/user-id/46591)
 - [Bugzilla](https://bugzilla.mozilla.org/user_profile?user_id=201381)
+- [Launchpad](https://launchpad.net/~gizmecano)
 - [Stack Exchange](https://stackexchange.com/users/5106056/?tab=accounts)

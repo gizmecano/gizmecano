@@ -30,3 +30,4 @@
 - [Bugzilla](https://bugzilla.mozilla.org/user_profile?user_id=201381)
 - [Launchpad](https://launchpad.net/~gizmecano)
 - [Stack Exchange](https://stackexchange.com/users/5106056/?tab=accounts)
+- [WordPress.org](https://profiles.wordpress.org/gizmecano/)

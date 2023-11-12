@@ -26,6 +26,8 @@
 
 ## Other miscellaneous activities
 
+- [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/user/88184/)
+- [Add-ons for Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/user/gizmecano/)
 - [Atlassian Community](https://community.atlassian.com/t5/user/viewprofilepage/user-id/46591)
 - [Bugzilla](https://bugzilla.mozilla.org/user_profile?user_id=201381)
 - [Launchpad](https://launchpad.net/~gizmecano)

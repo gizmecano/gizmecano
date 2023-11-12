@@ -11,6 +11,7 @@
 ## Open source projects
 
 - [cadratin](https://github.com/gizmecano/cadratin), a layouting template based on em multiples for the free office suite [LibreOffice](https://www.libreoffice.org/) (LGPL-3.0 license)
+- [grav-skeleton-hereditor-site](https://github.com/gizmecano/grav-skeleton-hereditor-site): an all-in-one package containing sample pages, plugins and configuration files for installing the theme below (MIT license)
 - [grav-theme-hereditor](https://github.com/gizmecano/grav-theme-hereditor), a theme for the open source flat-file CMS [Grav](https://getgrav.org/) (MIT license)
 - [opencart-3-fr](https://github.com/gizmecano/opencart-3-fr), a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (GPL-3.0 license)
 

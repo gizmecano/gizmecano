@@ -2,9 +2,9 @@
 
 ## Personal crafted websites
 
-- [GizMecano Laboratory](http://gizmecano.net/), a showcase built to present a choice of projects and experiments in the web design field
+- [GizMecano Laboratory](http://gizmecano.net/), a showcase built to present a choice of projects and experiments in the web design field ([published sources](https://github.com/gizmecano/gizmecano.net))
 - [Hereditor](https://htg.gizmecano.net/), a website which aims to enable a previewing of the eponymous theme in action
-- [Mergey.ch](https://mergey.ch/), a portfolio about miscellaneous things, mainly in the fields of web design, digital publishing and visual branding
+- [Mergey.ch](https://mergey.ch/), a portfolio about miscellaneous things, mainly in the fields of web design, digital publishing and visual branding ([published sources](https://github.com/gizmecano/mergey.ch))
 - [Miscellanées numériques d’un ours](http://mno.gizmecano.net/), a blog dedicated to various problems involved by ubiquitous uses of computer tools
 - [OCF (OpenCart.fr)](http://ocf.gizmecano.net/), a dummy store whose purpose is to present and set in motion a language pack
 

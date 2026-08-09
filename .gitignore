@@ -1,2 +1,4 @@
 # Development environment
 *.*-workspace
+# Working branch
+.refit/
